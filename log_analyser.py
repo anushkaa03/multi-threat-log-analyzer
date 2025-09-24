@@ -204,7 +204,7 @@ class LogAnalyzer:
 
 def main():
     root = tk.Tk()
-    root.iconbitmap("icons/app_icon.ico") 
+    
     app = LogAnalyzer(root)
     root.mainloop()
 
