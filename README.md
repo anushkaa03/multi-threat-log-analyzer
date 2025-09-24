@@ -3,7 +3,19 @@
 A **Windows Log Analyzer** with a Tkinter GUI that detects multiple security threats in system login logs. This tool helps monitor suspicious activities such as brute force attacks, credential stuffing, and unusual login times.
 
 ---
+## Download & Run
 
+You can download the latest version of the MultiThreatDetector application here:
+
+[Download MultiThreatDetector.exe](https://github.com/anushkaa03/multi-threat-log-analyzer/releases/latest)
+
+### How to Run
+
+1. Download `MultiThreatDetector.exe` from the link above.
+2. Double-click the EXE to launch the application.
+3. Make sure you have your log files ready to analyze.
+
+⚠️ Note: If you see a security warning, choose "More info" → "Run anyway".
 ## **Features**
 
 - **Brute Force Detection**  
